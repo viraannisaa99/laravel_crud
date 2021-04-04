@@ -1,11 +1,9 @@
-# LARAVEL 8 CRUD (COLLEGE DASHBOARD)
+# LARAVEL 8 CRUD 
+
+College Dashboard
 
 # Project Setup
 composer install
 
-npm install
-
-# Run Project
-php artisan serve
 
 
